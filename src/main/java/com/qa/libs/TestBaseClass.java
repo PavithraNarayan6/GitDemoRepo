@@ -4,6 +4,7 @@ public class TestBaseClass {
 	
 	public void test() {
 		System.out.println("test method");
+		System.out.println("test1 method");
 	}
 
 }
